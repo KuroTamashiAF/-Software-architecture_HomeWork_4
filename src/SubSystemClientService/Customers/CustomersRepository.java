@@ -1,12 +1,11 @@
 package SubSystemClientService.Customers;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-public class CustomersRepozitoriy {
+public class CustomersRepository {
     private ArrayList <Customers> CusList;
 
-    public CustomersRepozitoriy() {
+    public CustomersRepository() {
         this.CusList = new ArrayList<>();
     }
 
