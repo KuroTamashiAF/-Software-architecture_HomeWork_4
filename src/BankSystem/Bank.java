@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class Bank {
     private Map <Customers, Double> map;    // Double - типо деньги на счету
-    
+
     public Bank() {
         this.map = new HashMap<>();
     }
