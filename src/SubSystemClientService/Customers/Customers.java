@@ -40,4 +40,24 @@ public class Customers {
     public int getPassportSeries() {
         return passportSeries;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public void setPatronymic(String patronymic) {
+        this.patronymic = patronymic;
+    }
+
+    public void setNumberPassport(int numberPassport) {
+        this.numberPassport = numberPassport;
+    }
+
+    public void setPassportSeries(int passportSeries) {
+        this.passportSeries = passportSeries;
+    }
 }

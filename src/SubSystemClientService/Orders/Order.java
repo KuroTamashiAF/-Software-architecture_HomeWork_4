@@ -5,5 +5,5 @@ import SubSystemClientService.Customers.Customers;
 public class Order {
     Customers cus;
     Tiket tik;
-    
+
 }
