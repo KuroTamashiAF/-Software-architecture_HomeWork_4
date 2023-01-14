@@ -1,6 +1,6 @@
 package SubSystemClientService.Customers;
 
-public interface ICustomers {
+public interface ILoginCustomers {
     String[] login();
 
 }
